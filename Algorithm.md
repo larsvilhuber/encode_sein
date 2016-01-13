@@ -24,7 +24,7 @@ Receive account number from origin
 Convert to base-36 as follows:
 
 ```R
-function to\_base36 (digit) {
+function to_base36 (digit) {
 
 if (digit is numeric) code=digit;
 
